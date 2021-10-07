@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+body{
+	background-image: url('wp2.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	cursor: crosshair;
+	overflow: hidden;
+
+}
+.mobile_base{
+	position: absolute;
+	left:300px;
+}
+
+#time{
+	color: white;
+	font-family: 'Roboto Mono', monospace;
+	position: absolute;
+	left: 525px;
+	top: 70px;
+	font-size: 70%;
+}
+
+#botscroll{
+	position: absolute;
+	left: 590px;
+	top: 635px;
+	opacity: 20%;
+}
+
+#whatsapp{
+	position: relative;
+	left: 500px;
+	top: 581px;
+}
+
+#camera{
+	position: relative;
+	left: 520px;
+	top: 581px;
+}
+
+#contacts{
+	position: absolute;
+	left:640px;
+	top: 581px;
+}
+
+#instagram{
+	position: absolute;
+	left:710px;
+	top: 581px;
+}
+
+#time2{
+	font-size: 57px;
+	color: white;
+	position: absolute;
+	top: 200px;
+	left: 573px;
+}
+
+#date{
+	font-size: 15px;
+	position: relative;
+	top: 220px;
+	left: 577;
+	color: white;
+
+}
+
+
+#coming_soon{
+	color: white;
+	position: relative;
+	font-family: 'Roboto Mono', monospace;
+	top: 350px;
+	left: 547px;
+	border-color: olive;	
+}
