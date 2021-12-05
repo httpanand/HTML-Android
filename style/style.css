@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
 
 body{
-	background: url('wp2.jpg') no-repeat center center fixed;;
-  	 -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-       -o-background-size: cover;
+	background-color:black;
     height:100%;
     overflow: hidden;
 
