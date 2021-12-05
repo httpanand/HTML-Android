@@ -8,7 +8,7 @@ function startTime() {
   document.getElementById('time').innerHTML =  h + ":" + m;
   setTimeout(startTime, 1000);
   document.getElementById('time2').innerHTML = h + ":" + m;
-  document.getElementById('date').innerHTML = d + " October " + "2021";
+  document.getElementById('date').innerHTML = d + " December " + "2021";
 }
 
 function checkTime(i) {
